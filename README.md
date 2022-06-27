@@ -1,5 +1,5 @@
 # URPSeparableSSS
-Separable Subsurface Scatter for URP 10.x or later, using stencil buffer to Improve GPU Performance.
+Separable Subsurface Scatter for URP 10.x or later, as a postprocessing using stencil buffer to improve GPU Performance.
 
 <p align="center">
   <img src="https://github.com/bearworks/URPSeparableSSS/blob/main/Image.png">

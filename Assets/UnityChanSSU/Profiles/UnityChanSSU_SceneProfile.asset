@@ -102,9 +102,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   m_AdvancedMode: 0
-  SubsurfaceScaler:
+  SubsurfaceWidth:
     m_OverrideState: 1
-    m_Value: 3
+    m_Value: 5
+    min: 0
+    max: 5
   SubsurfaceColor:
     m_OverrideState: 1
     m_Value: {r: 1, g: 0, b: 0, a: 1}
@@ -117,6 +119,17 @@ MonoBehaviour:
     hdr: 0
     showAlpha: 1
     showEyeDropper: 1
+  FollowSurfaceDepth:
+    m_OverrideState: 1
+    m_Value: 1
+  SurfaceDepthFalloff:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0
+    max: 3
+  RefValue:
+    m_OverrideState: 1
+    m_Value: 2
 --- !u!114 &-3794185495884691929
 MonoBehaviour:
   m_ObjectHideFlags: 3

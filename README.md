@@ -1,5 +1,5 @@
 # URPSeparableSSS
-Separable Subsurface Scatter for URP 10.x or later
+Separable Subsurface Scatter for Unity 2020.3LTS & URP 10.x 
 
 As a postprocessing effect, using stencil buffer to improve GPU performance
 
